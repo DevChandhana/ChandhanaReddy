@@ -8,3 +8,4 @@ Reach me out: chandhana1203@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandhanaReddy)](https://github.com/ChandhanaReddy/github-readme-stats)
